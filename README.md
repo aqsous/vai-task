@@ -9,3 +9,6 @@
 Method: `POST`
 Path: `/v1/complexity`
 Body: `{ text: 'ENTER TEXT YOU WANT TO CHECK' }`
+
+## Note
+If you want to test `mode=verbose` end all sentences with `.`
